@@ -17,6 +17,9 @@
 
 ## 三、使用方法
 
++ 模块下载方法：
+  + 方法一：终端窗口输入命令 `pip install mass-mailing-light22`。
+  + 方法二：去官方库地址 https://pypi.org/project/mass-mailing-light22 下载安装。
 + 导入本模块方法：
   + 在需要导入本模块的代码中写入导入语句：*`from excel_operate import ExcelOperate`。*
 + 对象实例化方法：
