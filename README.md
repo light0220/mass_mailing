@@ -1,1 +1,1 @@
-# mass_mailing
+# 邮件群发
