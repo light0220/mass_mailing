@@ -21,7 +21,7 @@
   + 方法一：终端窗口输入命令 `pip install mass-mailing-light22`。
   + 方法二：去官方库地址 https://pypi.org/project/mass-mailing-light22 下载安装。
 + 导入本模块方法：
-  + 在需要导入本模块的代码中写入导入语句：*`from excel_operate import ExcelOperate`。*
+  + 在需要导入本模块的代码中写入导入语句：`from mass_mailing import MassMailing`。
 + 对象实例化方法：
   + 通过语句 `mail = MassMailing(send_to, title, mail_text, fj1, fj2, fj3,...)`获得一个名为 `mail`的对象。
     + 参数 `send_to`*为收件人列表可传入由收件人地址字符串组成的列表或元组类型数据；*
